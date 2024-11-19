@@ -1,0 +1,4 @@
+s3_bucket: "your-s3-bucket-name"
+s3_key: "your-s3-key"
+region: "your-aws-region"
+file_path: "/Users/57block/Library/Story/geth/guardian/filtered_report.log"
